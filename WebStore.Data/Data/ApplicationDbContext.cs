@@ -12,6 +12,6 @@ namespace WebStoreMODEL.Data
         }
         //modelos
 
-        public DbSet<Categoria> Categoria {  get; set; }
+        public DbSet<Categoria> Categoria {  get; set; } 
     }
 }
