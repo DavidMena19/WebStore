@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using WebStoreMODEL.Models;
 
 namespace WebStoreMODEL.Data
 {
@@ -11,5 +12,6 @@ namespace WebStoreMODEL.Data
         }
         //modelos
 
+        public DbSet<Categoria> Categoria {  get; set; }
     }
 }

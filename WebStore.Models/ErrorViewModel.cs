@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebStore.Models
+namespace WebStoreMODEL.Models
 {
-    internal class ErrorViewModel
+    public class ErrorViewModel
     {
-        public string? RequestedId { get; set; }
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestedId);
+        public string? RequestId { get; set; }
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }

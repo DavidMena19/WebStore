@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebStore.Data\WebStore.Data.csproj" />
+    <ProjectReference Include="..\WebStore.Data\WebStoreMODEL.AccesoDeDatos.csproj" />
   </ItemGroup>
 
 </Project>

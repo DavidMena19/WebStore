@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebStore.Models\WebStore.Models.csproj" />
-    <ProjectReference Include="..\WebStore.Utility\WebStore.Utility.csproj" />
+    <ProjectReference Include="..\WebStore.Models\WebStoreMODEL.Models.csproj" />
+    <ProjectReference Include="..\WebStore.Utility\WebStoreMODEL.Utility.csproj" />
   </ItemGroup>
 
 </Project>

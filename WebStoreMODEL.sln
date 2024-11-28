@@ -5,11 +5,11 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStoreMODEL", "WebStoreMODEL\WebStoreMODEL.csproj", "{7613C812-719A-4321-B3BA-AFB32F4BE727}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStore.AccesoDeDatos", "WebStore.Data\WebStore.AccesoDeDatos.csproj", "{B1ECF731-CB70-4BB2-9617-9BD5C0ABAE48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStoreMODEL.AccesoDeDatos", "WebStore.Data\WebStoreMODEL.AccesoDeDatos.csproj", "{B1ECF731-CB70-4BB2-9617-9BD5C0ABAE48}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStore.Models", "WebStore.Models\WebStore.Models.csproj", "{BB503AAA-2694-47B9-8284-7B335DEE267F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStoreMODEL.Models", "WebStore.Models\WebStoreMODEL.Models.csproj", "{BB503AAA-2694-47B9-8284-7B335DEE267F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStore.Utility", "WebStore.Utility\WebStore.Utility.csproj", "{91028020-6FC8-4D91-B6F6-5854549B05C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebStoreMODEL.Utility", "WebStore.Utility\WebStoreMODEL.Utility.csproj", "{91028020-6FC8-4D91-B6F6-5854549B05C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebStoreMODEL.Models;
+using WebStoreMODEL.Models; 
 
 namespace WebStoreMODEL.Areas.Cliente.Controllers
 {
